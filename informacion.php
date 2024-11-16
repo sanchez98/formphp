@@ -1,7 +1,7 @@
 <?php
-$identificacion= $_post  ['identificacion'];
+$identificacion=$_post  ['identificacion'];
 $nomapellidos=$_post ['NOMAPELLIDO'];
-$CARGO=$_POST ['Cargo'];
+$Cargo=$_POST ['Cargo'];
 $salario=$_post ['Salario'];
 echo "la identificacion del empleado es: ". identificacion;
 echo "Los nombres y apellidos del empleadoson: ".nomapellidos;
